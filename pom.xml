@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.109.54.120:8081/repository/karthik-release/</url>
+	      <url>http://3.89.120.99:8081/repository/rele/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.109.54.120:8081/repository/karthik-snapshot/</url>
+	      <url>http://3.89.120.99:8081/repository/snap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
